@@ -3,7 +3,8 @@
 ### Customized ###
 .ipynb_checkpoints/
 datasets/
-
+images/
+*.pkl
 
 ### OSX ###
 *.DS_Store
