@@ -4,6 +4,8 @@
 .ipynb_checkpoints/
 datasets/
 images/
+tf_logs/
+logs/
 *.pkl
 
 ### OSX ###
