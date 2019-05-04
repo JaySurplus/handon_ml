@@ -8,7 +8,7 @@ images/
 logs/
 tf_logs/
 my_*
-
+*.json
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
